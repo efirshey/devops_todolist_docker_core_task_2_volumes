@@ -8,3 +8,4 @@ ENV MYSQL_PASSWORD=1234
 VOLUME /var/lib/mysql
 
 EXPOSE 3306
+ 
